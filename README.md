@@ -4,7 +4,7 @@
 
 &nbsp;
 
-A client written in Python3 with the ability to query your Yale alarm system to get information about your devices. As well as being able to set your alarm state. Home / Away / Part Arm
+A client written in Python3 with the ability to query your Yale alarm system to get information about your devices. As well as being able to set your alarm state. Home (Part Arm) / ARM / Disarm
 
 &nbsp;
 
