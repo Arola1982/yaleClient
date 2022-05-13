@@ -4,15 +4,15 @@ import json
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
-  '--username',
+  '--username', '-u',
   help="Yale Username"
 )
 parser.add_argument(
-  '--password',
+  '--password', '-p',
   help="Yale Password"
 )
 parser.add_argument(
-  '--device-status',
+  '--device-status', '-d',
   help="Get Device Status"
 )
 parser.add_argument(
